@@ -3,12 +3,12 @@ import HomeView from '../views/HomeView.vue'
 
 const routes = [
   {
-    path: '/',
+    path: '/jhoanMoreno-s-website/',
     name: 'home',
     component: HomeView
   },
   {
-    path: '/about',
+    path: '/jhoanMoreno-s-website/about',
     name: 'about',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
